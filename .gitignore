@@ -1,0 +1,8 @@
+# logs
+/logs
+
+# local
+.idea
+/vendor
+config.php
+
