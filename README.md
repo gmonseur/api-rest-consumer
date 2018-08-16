@@ -13,7 +13,7 @@ Simple Class to consume REST API with Guzzle library.
 - logs
 - (vendor) : composer
 
-## Les librairies
+## Libraries
 - **[Monolog](https://github.com/Seldaek/monolog)** : Logging for PHP
 - **[Guzzle](https://github.com/guzzle/guzzle)** : PHP HTTP client
 - **[Mustache](https://mustache.github.io/)** : Logic-less templates
